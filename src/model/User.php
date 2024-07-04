@@ -1,6 +1,6 @@
 <?php
 
-namespace MyLib\model;
+namespace Zhangkunran\Test\model;
 
 class User
 {
