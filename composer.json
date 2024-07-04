@@ -1,0 +1,17 @@
+{
+    "name": "zhangkunran/test",
+    "description": "这是一个测试包",
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zhangkunran\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zhangsheng"
+        }
+    ]
+}
